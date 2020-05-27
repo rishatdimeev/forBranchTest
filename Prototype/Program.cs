@@ -9,6 +9,8 @@ namespace Prototype
         
         Паттерн уровня объектов (описывает как происходит порождение объектов)
     */
+
+    
     class Program
     {
         static void Main(string[] args)
